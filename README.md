@@ -2,9 +2,8 @@
 <h3 align="center">💻 A passionate fullstack developer</h3>
 
 
-- 🔭 I’m currently working on Share Rides App, an academic project of Henry bootcamp 
+- 🔭 I’m currently looking my first IT job. 
 - 💬 Ask me about code, I will like to help or learn whit you!
-- 🌱 I’m currently learning about Auth0
 - 📫 How to reach me: belenserer.bs@gmail.com
 <h3 align="left">Connect with me:</h3> 
 <a href="https://linkedin.com/in/maria-belen-serer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belenserer" height="20" width="30" /></a>
