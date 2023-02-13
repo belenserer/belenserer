@@ -2,7 +2,7 @@
 <h3 align="center">💻 A passionate fullstack developer</h3>
 
 
-- 🔭 I’m currently looking my first IT job. 
+- 🔭 I’m currently looking new challenges. 
 - 💬 Ask me about code, I will like to help or learn whit you!
 - 📫 How to reach me: belenserer.bs@gmail.com
 <h3 align="left">Connect with me:</h3> 
